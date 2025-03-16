@@ -3,15 +3,15 @@
 Welcome to the progress tracker for the Data Structures and Algorithms Specialization. This specialization consists of 6 courses designed to provide comprehensive knowledge and skills in Data Structures and Algorithms. Below you'll find the details and progress of each course.
 
 ## Table of Contents
-1. [Course 1: Course Title](#course-1-course-title)
-2. [Course 2: Course Title](#course-2-course-title)
-3. [Course 3: Course Title](#course-3-course-title)
-4. [Course 4: Course Title](#course-4-course-title)
-5. [Course 5: Course Title](#course-5-course-title)
-6. [Course 6: Course Title](#course-6-course-title)
+1. [Course 1: Algorithmic Toolbox](#course-1-algorithmic-toolbox)
+2. [Course 2: Data Structure](#course-2-data-structure)
+3. [Course 3: Algorithms on Graphs](#course-3-algorithms-on-graphs)
+4. [Course 4: Algorithms on Strings](#course-4-algorithms-on-strings)
+5. [Course 5: Advanced Algorithms and Complexity](#course-5-advanced-algorithms-and-complexity)
+6. [Course 6: Genome Assembly Programming Challenge](#course-6-genome-assembly-programming-challenge)
 
-## Course 1: Course Title
-**Status:** [Not Started/In Progress/Completed]  
+## Course 1: Algorithmic Toolbox
+**Status:** In Progress  
 **Completion Date:** [Date]  
 
 ### Description:
@@ -26,8 +26,8 @@ Welcome to the progress tracker for the Data Structures and Algorithms Specializ
 - [Assignment/Project 1 with status]
 - [Assignment/Project 2 with status]
 
-## Course 2: Course Title
-**Status:** [Not Started/In Progress/Completed]  
+## Course 2: Data Structure
+**Status:** In Progress  
 **Completion Date:** [Date]  
 
 ### Description:
@@ -42,8 +42,8 @@ Welcome to the progress tracker for the Data Structures and Algorithms Specializ
 - [Assignment/Project 1 with status]
 - [Assignment/Project 2 with status]
 
-## Course 3: Course Title
-**Status:** [Not Started/In Progress/Completed]  
+## Course 3: Algorithms on Graphs
+**Status:** In Progress  
 **Completion Date:** [Date]  
 
 ### Description:
@@ -58,8 +58,8 @@ Welcome to the progress tracker for the Data Structures and Algorithms Specializ
 - [Assignment/Project 1 with status]
 - [Assignment/Project 2 with status]
 
-## Course 4: Course Title
-**Status:** [Not Started/In Progress/Completed]  
+## Course 4: Algorithms on Strings
+**Status:** In Progress  
 **Completion Date:** [Date]  
 
 ### Description:
@@ -74,8 +74,8 @@ Welcome to the progress tracker for the Data Structures and Algorithms Specializ
 - [Assignment/Project 1 with status]
 - [Assignment/Project 2 with status]
 
-## Course 5: Course Title
-**Status:** [Not Started/In Progress/Completed]  
+## Course 5: Advanced Algorithms and Complexity
+**Status:** In Progress  
 **Completion Date:** [Date]  
 
 ### Description:
@@ -90,8 +90,9 @@ Welcome to the progress tracker for the Data Structures and Algorithms Specializ
 - [Assignment/Project 1 with status]
 - [Assignment/Project 2 with status]
 
-## Course 6: Course Title
-**Status:** [Not Started/In Progress/Completed]  
+## Course 6: Genome Assembly Programming Challenge
+**Status:** In Progress 
+
 **Completion Date:** [Date]  
 
 ### Description:
